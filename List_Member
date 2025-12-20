@@ -1,1 +1,10 @@
 
+[
+    {
+        "name":"Admin",
+        "device_id": "d9547147377b1b6f",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    }
+]
