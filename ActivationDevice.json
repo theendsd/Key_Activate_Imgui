@@ -1,14 +1,14 @@
 22-12-2025|
 [
     {
-        "name":"Admin",
-        "device_id": "d9547147377b1b6f",
+        "name":"AdminDK",
+        "device_id": "3619415fa25814aa",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
     },
     {
-        "name":"Admin",
+        "name":"AdminDL",
         "device_id": "0a59e25d5085fc67",
         "key": "admin",
         "expirydate": "30-9-2027",
