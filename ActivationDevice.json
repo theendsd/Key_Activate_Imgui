@@ -1,14 +1,14 @@
 [
     {
-        "name":"AdminDK",
+        "name":"AdminRF",
         "device_id": "d2dbdc77e3c52f15",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
     },
     {
-        "name":"AdminDL",
-        "device_id": "4783f2093e669805",
+        "name":"AdminDK",
+        "device_id": "d3341060b238f67b",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
