@@ -1,7 +1,7 @@
 [
     {
-        "name":"AdminRF",
-        "device_id": "d2dbdc77e3c52f15",
+        "name":"AdminDL",
+        "device_id": "04df7d6c55029b80",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
