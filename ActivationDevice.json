@@ -7,8 +7,8 @@
         "Allowoffline": true
     },
     {
-        "name":"AdminDK",
-        "device_id": "d3341060b238f67b",
+        "name":"AdminTest",
+        "device_id": "f400aae2a26e0ec2",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
