@@ -12,7 +12,7 @@
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
-    }
+    },
     {
         "name":"AdminLIB",
         "device_id": "bc18955f42681b76",
