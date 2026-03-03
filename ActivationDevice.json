@@ -7,8 +7,8 @@
         "Allowoffline": true
     },
     {
-        "name":"AdminTest",
-        "device_id": "f7ba186cc108ed1a",
+        "name":"AdminLC",
+        "device_id": "1248877ae78adcd0",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
