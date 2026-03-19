@@ -1,7 +1,7 @@
 [
     {
-        "name":"AdminDL",
-        "device_id": "a2c3a2266e24b2bf",
+        "name":"AdminMK",
+        "device_id": "5cd29b50711eba0f",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
@@ -14,7 +14,7 @@
         "Allowoffline": true
     },
     {
-        "name":"AdminLIB",
+        "name":"AdminDW",
         "device_id": "0fab8bd3ccea7c4f",
         "key": "admin",
         "expirydate": "30-9-2027",
