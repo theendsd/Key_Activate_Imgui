@@ -14,7 +14,7 @@
         "Allowoffline": true
     },
     {
-        "name":"AdminMK",
+        "name":"AdminDL",
         "device_id": "d453e12627b891ba",
         "key": "admin",
         "expirydate": "30-9-2027",
@@ -28,8 +28,8 @@
         "Allowoffline": true
     },
     {
-        "name":"AdminDW",
-        "device_id": "594d73d10cbd09e5",
+        "name":"AdminMK",
+        "device_id": "670f7359bbf16d04",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
