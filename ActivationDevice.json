@@ -33,12 +33,12 @@
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
-    }
+    },
     {
         "name":"Offline",
         "device_id": "3f4efeea2408a762",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
-    },
+    }
 ]
