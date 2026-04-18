@@ -1,1 +1,44 @@
-
+[
+    {
+        "name":"Phone",
+        "device_id": "21d550139c64992f",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
+        "name":"Phone",
+        "device_id": "baf2f03352b6615c",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
+        "name":"AdminDK",
+        "device_id": "c74538f128864c35",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
+        "name":"AdminCraft",
+        "device_id": "759481c23b9be091",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
+        "name":"Phạm Quốc Nghĩa Off",
+        "device_id": "683e14778d467944",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
+        "name":"Phạm Quốc Nghĩa",
+        "device_id": "96ad6885f7612aee",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    }
+]
