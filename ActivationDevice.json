@@ -35,6 +35,13 @@
         "Allowoffline": true
     },
     {
+        "name":"Phạm Quốc Nghĩa Ahmg",
+        "device_id": "124cbc37a2966166",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
         "name":"Phạm Quốc Nghĩa Test",
         "device_id": "683e14778d467944",
         "key": "admin",
