@@ -20,6 +20,13 @@
         "expirydate": "30-9-2027",
         "Allowoffline": true
     },
+     {
+        "name":"Vũ Tuấn Đào",
+        "device_id": "722d20839650d373",
+        "key": "QRbgEJ2HEqV8JdjXyt9uIp3F",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
     {
         "name":"Tuấn Xilod",
         "device_id": "a7441ef5f1e45137",
