@@ -7,6 +7,13 @@
         "Allowoffline": true
     },
     {
+        "name":"Vũ Tuấn Đào LD",
+        "device_id": "a8cf4536648a3e12",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
         "name":"Phone",
         "device_id": "21d550139c64992f",
         "key": "admin",
