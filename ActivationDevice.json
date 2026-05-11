@@ -1,4 +1,10 @@
 [
+    "name":"Vũ Tuấn Đào Cloud 1",
+        "device_id": "e358edcf18c93217",
+        "key": "admin",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
     {
         "name":"Vũ Tuấn Đào Cloud",
         "device_id": "b3ffa8a31d5abc3a",
