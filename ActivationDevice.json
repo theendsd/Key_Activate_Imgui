@@ -75,12 +75,12 @@
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
-    }
+    },
     {
         "name":"PQN Cloud",
         "device_id": "af68ddb487c42ca5",
         "key": "admin",
         "expirydate": "30-9-2027",
         "Allowoffline": true
-    },
+    }
 ]
