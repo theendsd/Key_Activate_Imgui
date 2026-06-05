@@ -1,5 +1,12 @@
 [
     {
+    "name":"Vũ Tuấn Đào ML",
+        "device_id": "5faa802a439aeb3d",
+        "key": "eBh0uD15VzQ8mfHrGjAqkS3u",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
     "name":"Vũ Tuấn Đào Cloud 1",
         "device_id": "e358edcf18c93217",
         "key": "admin",
