@@ -1,6 +1,13 @@
 [
     {
-    "name":"Vũ Tuấn Đào ML",
+    "name":"VTD ML",
+        "device_id": "d16dba3cdf2ce3b6",
+        "key": "oQjD3Abj7qoUw9mPSWV8x6zt",
+        "expirydate": "30-9-2027",
+        "Allowoffline": true
+    },
+    {
+    "name":"Nguyễn Văn Cảnh",
         "device_id": "76a09632847eeb0f",
         "key": "eBh0uD15VzQ8mfHrGjAqkS3u",
         "expirydate": "30-9-2027",
